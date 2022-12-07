@@ -4,5 +4,6 @@
 user_pref("_user.js.parrot", "overrides section syntax error");
 user_pref("webgl.disabled", false); // 2010 enable webGL for Mapbox embeds (e.g. NYT)
 user_pref("privacy.resistFingerprinting.letterboxing", false); // 4504 disable letterboxing
+user_pref("extensions.pocket.enabled", false); // 5000 disable Pocket extension (not ref'd in ghacks user.js)
 user_pref("keyword.enabled", true); // 0801 enable searching from location bar
 user_pref("_user.js.parrot", "SUCCESS");
